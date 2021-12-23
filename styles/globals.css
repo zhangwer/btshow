@@ -24,3 +24,13 @@ a {
   height: 100vw;
   width: min(100vw,100%);
 }
+.prix{
+  text-align: center;
+  font-size: 1.6em;
+  background-color: gold;
+  border-radius: 0.5em;
+  color: black;
+}
+.center{
+  text-align: center;
+}
