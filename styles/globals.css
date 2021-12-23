@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+.btswiper {
+  overflow-x: hidden;
+}
+
+.box {
+  background-size: cover;
+  background-position: center;
+  height: 100vw;
+  width: min(100vw,100%);
+}
