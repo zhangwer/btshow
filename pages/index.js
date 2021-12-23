@@ -44,7 +44,7 @@ const Home = function ({ allshows }) {
 
 
 export async function getStaticProps() {
-    const res = await fetch('https://ali-francezw.vercel.app/api/getallshows', {
+    const res = await fetch('https://btshow.vercel.app/api/getallshows', {
         method: 'GET',
         headers: {}
     })
